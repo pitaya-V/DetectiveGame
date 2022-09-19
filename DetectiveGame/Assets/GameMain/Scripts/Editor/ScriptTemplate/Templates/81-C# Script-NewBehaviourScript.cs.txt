@@ -1,0 +1,18 @@
+﻿#region HeadComments
+// ********************************************************************
+//  Copyright (C) #YEAR# #DEVELOPERS#
+//  作    者：#AUTHOR#
+//  文件路径：#FILEPATH#
+//  创建日期：#CREATIONDATE#
+//  功能描述：
+//
+// *********************************************************************
+#endregion
+
+using UnityEngine;
+using System.Collections;
+
+public class #SCRIPTNAME# : MonoBehaviour 
+{
+
+}

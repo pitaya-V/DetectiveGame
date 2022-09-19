@@ -1080,7 +1080,9 @@ MonoBehaviour:
   m_CustomUIFormHelper: {fileID: 0}
   m_UIGroupHelperTypeName: UnityGameFramework.Runtime.DefaultUIGroupHelper
   m_CustomUIGroupHelper: {fileID: 0}
-  m_UIGroups: []
+  m_UIGroups:
+  - m_Name: Default
+    m_Depth: 0
 --- !u!114 &786388896
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1165,8 +1167,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 959bca2b68d03954897f38b1dbb00303, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AvailableProcedureTypeNames: []
-  m_EntranceProcedureTypeName: 
+  m_AvailableProcedureTypeNames:
+  - DetectiveGame.ProcedureLaunch
+  m_EntranceProcedureTypeName: DetectiveGame.ProcedureLaunch
 --- !u!114 &786408954
 MonoBehaviour:
   m_ObjectHideFlags: 0

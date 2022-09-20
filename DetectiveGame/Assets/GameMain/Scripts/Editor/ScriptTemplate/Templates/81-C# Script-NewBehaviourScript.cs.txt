@@ -11,8 +11,11 @@
 
 using UnityEngine;
 using System.Collections;
-
-public class #SCRIPTNAME# : MonoBehaviour 
+namespace DetectiveGame
 {
+	public class #SCRIPTNAME# : MonoBehaviour 
+	{
 
+	}
 }
+

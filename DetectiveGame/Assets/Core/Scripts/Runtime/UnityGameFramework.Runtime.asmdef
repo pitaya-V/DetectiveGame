@@ -1,6 +1,16 @@
 {
     "name": "UnityGameFramework.Runtime",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:f9c3034b46833da4fae7c2b78fb880ec"
+    ],
     "includePlatforms": [],
-    "excludePlatforms": []
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

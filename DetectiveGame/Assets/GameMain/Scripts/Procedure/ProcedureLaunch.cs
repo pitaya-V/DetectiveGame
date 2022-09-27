@@ -37,7 +37,7 @@ namespace DetectiveGame
         {
             base.OnUpdate(procedureOwner, elapseSeconds, realElapseSeconds);
 
-            //ChangeState<ProcedureSplash>(procedureOwner);
+            ChangeState<ProcedureSplash>(procedureOwner);
         }
 
 

@@ -15,7 +15,6 @@ namespace DetectiveGame
         public static readonly string[] DataTableNames = new string[]
         {
             "UIForm",
-            "UISound",
         };
 
         private Dictionary<string, bool> m_LoadedFlag = new Dictionary<string, bool>();

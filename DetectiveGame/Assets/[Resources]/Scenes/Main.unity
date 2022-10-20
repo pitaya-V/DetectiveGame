@@ -1187,7 +1187,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AvailableProcedureTypeNames:
+  - DetectiveGame.ProcedureCheckResources
+  - DetectiveGame.ProcedureCheckVersion
+  - DetectiveGame.ProcedureInitResources
   - DetectiveGame.ProcedureLaunch
+  - DetectiveGame.ProcedureLoadingScene
+  - DetectiveGame.ProcedurePreload
+  - DetectiveGame.ProcedureSplash
+  - DetectiveGame.ProcedureUpdateResources
+  - DetectiveGame.ProcedureUpdateVersion
   m_EntranceProcedureTypeName: DetectiveGame.ProcedureLaunch
 --- !u!114 &786408954
 MonoBehaviour:
@@ -1310,7 +1318,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1298238019}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 865e9e71d60df8c469e293b08f20a02f, type: 3}
+  m_Script: {fileID: 11500000, guid: 37d87e3822bcace4c83e7c9cbaecd5d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_BuildInfoTextAsset: {fileID: 4900000, guid: 247c6b81e258656418deff7861816d33, type: 3}

@@ -7,7 +7,7 @@ namespace DetectiveGame
 {
     public static partial class DataTableExtension
     {
-        private const string DataRowClassPrefixName = "MiGuFramework.Runtime.DR";
+        private const string DataRowClassPrefixName = "DetectiveGame.DR";
         public static readonly char[] DataSplitSeparators = {'\t'};
         public static readonly char[] DataTrimSeparators = {'\"'};
 

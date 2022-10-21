@@ -1322,7 +1322,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BuildInfoTextAsset: {fileID: 4900000, guid: 247c6b81e258656418deff7861816d33, type: 3}
-  m_DefaultDictionaryTextAsset: {fileID: 4900000, guid: 9649279ea3b34d141b0aac3f46d82aef, type: 3}
+  m_DefaultDictionaryTextAsset: {fileID: 4900000, guid: b55324deefd0f824eb36f8e7a8856ca3, type: 3}
 --- !u!1 &1411631367
 GameObject:
   m_ObjectHideFlags: 0
